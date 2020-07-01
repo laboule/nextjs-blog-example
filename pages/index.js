@@ -13,7 +13,7 @@ export default function Home() {
         <p>
           (This is a sample website - you’ll be building a site like this in{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-          Amazing !
+          Amazing ! Add text from feature branch
         </p>
       </section>
     </Layout>
